@@ -1,0 +1,76 @@
+
+
+
+.navbar{
+    background: linear-gradient(to right, #43CBFF,#9708CC);
+}
+
+.navbar-brand{
+    font-family: 'Lobster', cursive;
+    color: #fff;
+}
+.navbar-nav{
+    text-align: center;
+}
+
+#botonBusqueda{
+    background-color: #43CBFF;
+    color: #fff;
+}
+
+#contactosTitulo{
+    font-size: 80px;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+
+.detalles{
+    font-size: 15px;
+}
+
+#añadir{
+    margin: 2%;
+    display: flex;
+    width: 200px;
+    font-family: sans-serif;
+    font-weight: 700;
+    background: linear-gradient(to right, #43CBFF,#9708CC);
+    border-radius: 5px;
+    color: #FFF;
+    border: none;
+    padding: 15px 30px;
+    text-decoration: none;
+}
+
+#usuario{
+    margin-left: 30%;
+    text-align: left;
+}
+
+#targeta{
+    background: linear-gradient(to right, #81fbb8,#28c76f);
+    margin-left: 20%;
+}
+
+#prioridad{
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    margin-top: 10%;
+}
+
+.prioridadcheck{
+    margin-left: 30%;
+}
+
+#lista{
+    font-size: 40px;
+    margin-left: 7%;
+    font-family: 'Lobster', cursive;
+    margin-top: 8%; 
+}
+
+.check{
+    margin-left: 30%;
+   
+}
